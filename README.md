@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sourav Kundu
 - 👀 I’m interested in ... Softwares
-- 🌱 I’m currently working in ... MERN STACK
+- 🌱 Mobile Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
